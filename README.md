@@ -32,14 +32,6 @@ git clone https://github.com/seu-usuario/conta-bancaria-java.git
 
 Os testes são escritos em Gherkin e podem ser encontrados no arquivo `Conta.feature`. A implementação dos passos está em `ContaSteps.java`.
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull.
-
-## Autor
-
-Seu Nome
-
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
