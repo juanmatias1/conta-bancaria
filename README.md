@@ -1,4 +1,3 @@
-Claro, aqui está uma descrição básica que você pode adicionar ao seu repositório:
 
 ```markdown
 # Conta Bancária em Java
